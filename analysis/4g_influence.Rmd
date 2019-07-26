@@ -1,5 +1,8 @@
 ---
 title: "4G і виборці. Як покриття LTE вплинуло на склад українського парламенту"
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
