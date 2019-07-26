@@ -1,2 +1,6 @@
-# ukrainian_elections
-Ukrainian elections analysis
+# Ukrainian elections analysis
+
+- **analysis** - зошити з аналізом даних по виборах
+- **data** - збережені файли з даними
+- **plots** - папка з графіками
+- **scripts** - папка з скріптами для збору, підготовки і аналізу даних
